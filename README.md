@@ -31,5 +31,3 @@ This project analyzes flight delay patterns across various airports and airlines
 ## Conclusion
 The Flight Delay Analysis revealed critical insights into how time of day, day of the week, airline operations, and seasonal patterns significantly impact flight punctuality. Carrier-related and late aircraft issues emerged as the leading causes of delays, especially at major hub airports.
 
-## Conclusion
-The Flight Delay Analysis revealed critical insights into how time of day, day of the week, airline operations, and seasonal patterns significantly impact flight punctuality. Carrier-related and late aircraft issues emerged as the leading causes of delays, especially at major hub airports.
